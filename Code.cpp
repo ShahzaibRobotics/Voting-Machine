@@ -4,6 +4,8 @@
 // LCD Pins: RS, E, D4, D5, D6, D7
 LiquidCrystal lcd(12, 11, 10, 9, 8, 7);
 
+
+
 // Keypad setup
 const byte ROWS = 4;
 const byte COLS = 4;
